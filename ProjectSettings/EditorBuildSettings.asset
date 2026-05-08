@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 33725b3ac39e36e4396a9c76d8ef7a50
+  - enabled: 1
+    path: Assets/Scenes/PongPlay.unity
+    guid: 4cb3ae9b8dfab5441a37d14a2cd7dbb9
+  m_configObjects: {}
